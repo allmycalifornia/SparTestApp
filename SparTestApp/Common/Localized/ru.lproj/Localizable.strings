@@ -1,0 +1,14 @@
+/* 
+  Localizable.strings
+  Spar
+
+  Created by Boris on 26.08.2024.
+  
+*/
+
+"one_review" = "отзыв";
+"two_reviews" = "отзыва";
+"reviews" = "отзывов";
+"currency" = "₽";
+"total" = "Итого:";
+"cart" = "Корзина";
